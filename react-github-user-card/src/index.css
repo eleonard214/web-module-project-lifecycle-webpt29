@@ -1,0 +1,25 @@
+html, body, * {
+  
+  justify-content: center;
+  
+  margin: 10px;
+  padding: 5px;
+}
+body {
+  background-color: blueviolet;
+}
+h2, div, p {
+  color:cornflowerblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  font-size: 35px;
+}
+p{
+  font-size: 25px;
+}
+ img{
+  border: solid, 25px, cornflowerblue;
+  height: 500px;
+  width: 500px;
+ }
